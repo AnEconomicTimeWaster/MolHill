@@ -4,7 +4,7 @@ date: 2021-02-01T21:22:15-06:00
 slug: ""
 description: ""
 keywords: []
-draft: false
+draft: true
 tags: ['social','internet','friendly']
 math: false
 toc: false

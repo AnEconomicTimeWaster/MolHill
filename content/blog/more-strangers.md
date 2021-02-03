@@ -4,7 +4,7 @@ date: 2021-02-01T21:22:15-06:00
 slug: ""
 description: ""
 keywords: []
-draft: false
+draft: true
 tags: ['social','internet','friendly']
 math: false
 toc: false
@@ -52,7 +52,7 @@ Although sidewalk encounters are random, greeting someone online shows deliberat
 
 Reaching out online means the person trying to make contact has at least a general topic to discuss. There is no “what do we talk about” - you're responding to a post, it is simply assumed that your discussion will pertain to the post. Your greeting has to be more inviting than “Hi” but “Hi, I saw your post and was wondering if you would like to chat about ____?” likely works well for anyone with a small following. Maybe you get Kanye’s number on a good day, I will update the post if he answers. There's the raised fear of being ignored or told no, but the rewards are a lot higher for both parties if things go well.
 
-It is nice to be recognized by your neighbors for taking the same route to work. It feels *way better* to be recognized by people from across the globe who just wanted to say your post was interesting, or to have made someone's day better. The inspiration of a few kind words can get people to do crazy stuff. It gets people to edit drafts they let sit for months, say hello to more people on the sidewalk, cancel their video game sessions to hone a craft. The small price of a cold shoulder should not scare you off from making your introductions.
+It is nice to be recognized by your neighbors for taking the same route to work. It feels *way better* to be recognized by people from across the globe who just wanted to say your post was interesting, or that you made their day better. The inspiration of a few kind words can get people to do crazy stuff. It gets people to edit drafts they let sit for months, say hello to more people on the sidewalk, cancel their video game sessions to hone a craft. The small price of a cold shoulder should not scare you off from making your introductions.
 
 _Either Way – Just Say Hi More_
 
